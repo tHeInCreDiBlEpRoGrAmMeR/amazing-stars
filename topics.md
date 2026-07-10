@@ -12,12 +12,14 @@
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [cli](#cli)
+- [config](#config)
 - [cpp](#cpp)
 - [css](#css)
 - [framework](#framework)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
+- [github-config](#github-config)
 - [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -67,12 +69,17 @@
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
+## config 
+
+- [PRIYAtechky/PRIYAtechky](https://github.com/PRIYAtechky/PRIYAtechky) - Config files for my GitHub profile.
+
 ## cpp 
 
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 ## css 
 
+- [ankurrera/SoloLeveling](https://github.com/ankurrera/SoloLeveling) - ♟️ A Notion-inspired Life OS that turns real-world skills into a live RPG stat system driven by XP and consistency.
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 
 ## framework 
@@ -90,6 +97,10 @@
 ## gamedev 
 
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+## github-config 
+
+- [PRIYAtechky/PRIYAtechky](https://github.com/PRIYAtechky/PRIYAtechky) - Config files for my GitHub profile.
 
 ## gui 
 
@@ -121,6 +132,9 @@
 
 ## others 
 
+- [BharadwajNB/Keiretsu](https://github.com/BharadwajNB/Keiretsu) - Platform connecting nearby skilled individuals via live location, profiles, and collaboration for building projects efficiently.
+- [debanjan100/CampusCollab-HACKATHON](https://github.com/debanjan100/CampusCollab-HACKATHON) - The main objective of "CampusCollab" is to create a centralized, skill-based web platform to break down these inter-departmental barriers and foster a culture of collaboration.
+- [tanzimulalam/fahimsocsimulator](https://github.com/tanzimulalam/fahimsocsimulator) - Private SOC like Sim
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [rishichitnis007-sys/dotfiles](https://github.com/rishichitnis007-sys/dotfiles) - My Dotfiles
 
