@@ -7,6 +7,7 @@
 
 - [C](#c)
 - [C++](#c++)
+- [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
 - [Shell](#shell)
@@ -18,7 +19,12 @@
 
 ## C++ 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+## Markdown 
+
+- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
 
 ## Others 
 
