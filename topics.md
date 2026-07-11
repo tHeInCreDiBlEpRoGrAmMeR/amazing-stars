@@ -19,6 +19,7 @@
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
+- [github](#github)
 - [github-config](#github-config)
 - [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
@@ -98,6 +99,10 @@
 
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
+## github 
+
+- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
+
 ## github-config 
 
 - [PRIYAtechky/PRIYAtechky](https://github.com/PRIYAtechky/PRIYAtechky) - Config files for my GitHub profile.
@@ -132,6 +137,7 @@
 
 ## others 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [BharadwajNB/Keiretsu](https://github.com/BharadwajNB/Keiretsu) - Platform connecting nearby skilled individuals via live location, profiles, and collaboration for building projects efficiently.
 - [debanjan100/CampusCollab-HACKATHON](https://github.com/debanjan100/CampusCollab-HACKATHON) - The main objective of "CampusCollab" is to create a centralized, skill-based web platform to break down these inter-departmental barriers and foster a culture of collaboration.
 - [tanzimulalam/fahimsocsimulator](https://github.com/tanzimulalam/fahimsocsimulator) - Private SOC like Sim
