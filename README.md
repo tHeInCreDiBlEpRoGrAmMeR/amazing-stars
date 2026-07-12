@@ -7,6 +7,7 @@
 
 - [C](#c)
 - [C++](#c++)
+- [HTML](#html)
 - [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
@@ -15,6 +16,7 @@
 
 ## C 
 
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ## C++ 
@@ -22,12 +24,17 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
+## HTML 
+
+- [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
+
 ## Markdown 
 
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
 
 ## Others 
 
+- [rishichitnis007/awesome-github-profile-actions](https://github.com/rishichitnis007/awesome-github-profile-actions) - 😎 A curated list of Awesome github profile actions
 - [PRIYAtechky/PRIYAtechky](https://github.com/PRIYAtechky/PRIYAtechky) - Config files for my GitHub profile.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -35,16 +42,19 @@
 
 ## Python 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 
 ## Shell 
 
-- [rishichitnis007-sys/dotfiles](https://github.com/rishichitnis007-sys/dotfiles) - My Dotfiles
+- [rishichitnis007/dotfiles](https://github.com/rishichitnis007/dotfiles) - My Dotfiles
 
 ## TypeScript 
 
+- [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [BharadwajNB/Keiretsu](https://github.com/BharadwajNB/Keiretsu) - Platform connecting nearby skilled individuals via live location, profiles, and collaboration for building projects efficiently.
 - [debanjan100/CampusCollab-HACKATHON](https://github.com/debanjan100/CampusCollab-HACKATHON) - The main objective of "CampusCollab" is to create a centralized, skill-based web platform to break down these inter-departmental barriers and foster a culture of collaboration.
 - [tanzimulalam/fahimsocsimulator](https://github.com/tanzimulalam/fahimsocsimulator) - Private SOC like Sim
