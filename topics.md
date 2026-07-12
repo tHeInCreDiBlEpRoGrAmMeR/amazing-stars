@@ -5,16 +5,23 @@
 
 ## Contents
 
+- [ai](#ai)
+- [ai-agents](#ai-agents)
+- [analytics](#analytics)
 - [api](#api)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatgpt](#chatgpt)
+- [claude](#claude)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [config](#config)
 - [cpp](#cpp)
 - [css](#css)
+- [database](#database)
 - [framework](#framework)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
@@ -24,18 +31,38 @@
 - [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
+- [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
 - [library](#library)
+- [llm](#llm)
 - [malware](#malware)
+- [microsoft](#microsoft)
+- [openai](#openai)
 - [others](#others)
+- [parsing](#parsing)
+- [postgresql](#postgresql)
 - [python](#python)
 - [python3](#python3)
+- [react](#react)
 - [security](#security)
 - [shell](#shell)
+- [sql](#sql)
 - [terminal](#terminal)
 - [ui](#ui)
 - [zsh](#zsh)
+
+## ai 
+
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+
+## ai-agents 
+
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+
+## analytics 
+
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
 ## api 
 
@@ -65,6 +92,18 @@
 
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
+## chatgpt 
+
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+
+## claude 
+
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+
+## claude-code 
+
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+
 ## cli 
 
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -82,6 +121,10 @@
 
 - [ankurrera/SoloLeveling](https://github.com/ankurrera/SoloLeveling) - ♟️ A Notion-inspired Life OS that turns real-world skills into a live RPG stat system driven by XP and consistency.
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
+
+## database 
+
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
 ## framework 
 
@@ -113,11 +156,16 @@
 
 ## hacktoberfest 
 
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 
 ## html 
 
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
+
+## iot 
+
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
 ## java 
 
@@ -131,21 +179,44 @@
 
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
+## llm 
+
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+
 ## malware 
 
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 
+## microsoft 
+
+- [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
+
+## openai 
+
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+
 ## others 
 
+- [rishichitnis007/awesome-github-profile-actions](https://github.com/rishichitnis007/awesome-github-profile-actions) - 😎 A curated list of Awesome github profile actions
+- [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [BharadwajNB/Keiretsu](https://github.com/BharadwajNB/Keiretsu) - Platform connecting nearby skilled individuals via live location, profiles, and collaboration for building projects efficiently.
 - [debanjan100/CampusCollab-HACKATHON](https://github.com/debanjan100/CampusCollab-HACKATHON) - The main objective of "CampusCollab" is to create a centralized, skill-based web platform to break down these inter-departmental barriers and foster a culture of collaboration.
 - [tanzimulalam/fahimsocsimulator](https://github.com/tanzimulalam/fahimsocsimulator) - Private SOC like Sim
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [rishichitnis007-sys/dotfiles](https://github.com/rishichitnis007-sys/dotfiles) - My Dotfiles
+- [rishichitnis007/dotfiles](https://github.com/rishichitnis007/dotfiles) - My Dotfiles
+
+## parsing 
+
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
+
+## postgresql 
+
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
 ## python 
 
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
@@ -153,6 +224,10 @@
 ## python3 
 
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+
+## react 
+
+- [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 
 ## security 
 
@@ -162,6 +237,10 @@
 
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+
+## sql 
+
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
 ## terminal 
 
