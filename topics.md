@@ -34,9 +34,11 @@
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
+- [js](#js)
 - [library](#library)
 - [llm](#llm)
 - [malware](#malware)
+- [markdown](#markdown)
 - [microsoft](#microsoft)
 - [openai](#openai)
 - [others](#others)
@@ -50,6 +52,8 @@
 - [sql](#sql)
 - [terminal](#terminal)
 - [ui](#ui)
+- [vue](#vue)
+- [vuejs](#vuejs)
 - [zsh](#zsh)
 
 ## ai 
@@ -76,6 +80,7 @@
 
 ## awesome-list 
 
+- [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -119,6 +124,7 @@
 
 ## css 
 
+- [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [ankurrera/SoloLeveling](https://github.com/ankurrera/SoloLeveling) - ♟️ A Notion-inspired Life OS that turns real-world skills into a live RPG stat system driven by XP and consistency.
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 
@@ -156,11 +162,13 @@
 
 ## hacktoberfest 
 
+- [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 
 ## html 
 
+- [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 
 ## iot 
@@ -173,7 +181,12 @@
 
 ## javascript 
 
+- [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
+
+## js 
+
+- [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 
 ## library 
 
@@ -186,6 +199,10 @@
 ## malware 
 
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
+
+## markdown 
+
+- [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
 
 ## microsoft 
 
@@ -249,6 +266,14 @@
 ## ui 
 
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+## vue 
+
+- [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
+
+## vuejs 
+
+- [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 
 ## zsh 
 
