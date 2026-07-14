@@ -8,7 +8,9 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
+- [ansible](#ansible)
 - [api](#api)
+- [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
@@ -22,10 +24,14 @@
 - [cpp](#cpp)
 - [css](#css)
 - [database](#database)
+- [docker](#docker)
+- [dotfiles](#dotfiles)
+- [emacs](#emacs)
 - [framework](#framework)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
+- [git](#git)
 - [github](#github)
 - [github-config](#github-config)
 - [gui](#gui)
@@ -54,6 +60,7 @@
 - [ui](#ui)
 - [vue](#vue)
 - [vuejs](#vuejs)
+- [workflow](#workflow)
 - [zsh](#zsh)
 
 ## ai 
@@ -68,9 +75,17 @@
 
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
+## ansible 
+
+- [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
+
 ## api 
 
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+## automation 
+
+- [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 
 ## awesome 
 
@@ -132,6 +147,18 @@
 
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
+## docker 
+
+- [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
+
+## dotfiles 
+
+- [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
+
+## emacs 
+
+- [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
+
 ## framework 
 
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
@@ -148,8 +175,13 @@
 
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
+## git 
+
+- [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
+
 ## github 
 
+- [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
 
 ## github-config 
@@ -233,6 +265,7 @@
 
 ## python 
 
+- [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -275,8 +308,13 @@
 
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 
+## workflow 
+
+- [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
+
 ## zsh 
 
+- [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
 
