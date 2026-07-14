@@ -6,8 +6,10 @@
 ## Contents
 
 - [C](#c)
+- [C#](#c#)
 - [C++](#c++)
 - [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -20,6 +22,10 @@
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
+## C# # 
+
+- [leandro0109/BancoForms](https://github.com/leandro0109/BancoForms) - Banco criado com windows forms em c#, com ligação a base de dados em SSMS e crud  completo
+
 ## C++ 
 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -27,11 +33,19 @@
 
 ## HTML 
 
+- [keval101/trade-tracker](https://github.com/keval101/trade-tracker) - Built a trading tracker app to help people manage their investments. Users can record deposits, withdrawals, and trades. Charts help visualize performance, and an ROI sheet generator calculates goals 
+- [yatinsayania/yatinsayania](https://github.com/yatinsayania/yatinsayania) - Config files for my GitHub profile.
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 
+## Java 
+
+- [apache/netbeans](https://github.com/apache/netbeans) - Apache NetBeans
+
 ## JavaScript 
 
+- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 BOT de WhatsApp com multi-funções e comandos!
+- [hadez8877/awesome-opensource](https://github.com/hadez8877/awesome-opensource) - A list of powerful open-source projects for web, backend, CLI, and mobile. ⭐️ Star the repo to support it!
 - [JavascriptGrandMasters/javascript-cheatsheet](https://github.com/JavascriptGrandMasters/javascript-cheatsheet) - A CheatSheet to Javascript
 
 ## Markdown 
@@ -41,6 +55,7 @@
 
 ## Others 
 
+- [Lifestyle2000/Donut-Orders](https://github.com/Lifestyle2000/Donut-Orders) - A Lighweight Orders Plugin Which Replicated The Orders of DonutSMP
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [rishichitnis007/awesome-github-profile-actions](https://github.com/rishichitnis007/awesome-github-profile-actions) - 😎 A curated list of Awesome github profile actions
 - [PRIYAtechky/PRIYAtechky](https://github.com/PRIYAtechky/PRIYAtechky) - Config files for my GitHub profile.
@@ -50,6 +65,7 @@
 
 ## Python 
 
+- [fs0cietyx/ai-slop-detector](https://github.com/fs0cietyx/ai-slop-detector) - A production-ready AI text classifier that detects machine-generated content using PyTorch and LoRA. Features zero-trust security, strict CI/CD, and containerized deployment.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
@@ -63,6 +79,10 @@
 
 ## TypeScript 
 
+- [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
+- [Vivek-736/RepoMind](https://github.com/Vivek-736/RepoMind) - RepoMind is an AI-powered documentation generator for modern codebases that helps developers understand any GitHub repository faster. It analyzes project architecture, folder structures, dependencies,
+- [BeyteFlow/ReadmeGenAI](https://github.com/BeyteFlow/ReadmeGenAI) - AI-powered README generator for GitHub. Paste a repo URL and instantly create a professional, well-structured README.md file.
+- [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [BharadwajNB/Keiretsu](https://github.com/BharadwajNB/Keiretsu) - Platform connecting nearby skilled individuals via live location, profiles, and collaboration for building projects efficiently.
 - [debanjan100/CampusCollab-HACKATHON](https://github.com/debanjan100/CampusCollab-HACKATHON) - The main objective of "CampusCollab" is to create a centralized, skill-based web platform to break down these inter-departmental barriers and foster a culture of collaboration.
