@@ -8,6 +8,7 @@
 - [C](#c)
 - [C++](#c++)
 - [HTML](#html)
+- [JavaScript](#javascript)
 - [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
@@ -28,6 +29,10 @@
 
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
+
+## JavaScript 
+
+- [JavascriptGrandMasters/javascript-cheatsheet](https://github.com/JavascriptGrandMasters/javascript-cheatsheet) - A CheatSheet to Javascript
 
 ## Markdown 
 
