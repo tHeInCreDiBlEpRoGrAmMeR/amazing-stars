@@ -36,6 +36,7 @@
 
 ## Others 
 
+- [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [rishichitnis007/awesome-github-profile-actions](https://github.com/rishichitnis007/awesome-github-profile-actions) - 😎 A curated list of Awesome github profile actions
 - [PRIYAtechky/PRIYAtechky](https://github.com/PRIYAtechky/PRIYAtechky) - Config files for my GitHub profile.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -52,6 +53,7 @@
 
 ## Shell 
 
+- [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
 - [rishichitnis007/dotfiles](https://github.com/rishichitnis007/dotfiles) - My Dotfiles
 
 ## TypeScript 
