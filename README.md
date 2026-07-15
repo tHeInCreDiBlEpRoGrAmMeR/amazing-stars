@@ -14,6 +14,7 @@
 - [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 
@@ -71,6 +72,10 @@
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
+
+## Ruby 
+
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 
 ## Shell 
 
