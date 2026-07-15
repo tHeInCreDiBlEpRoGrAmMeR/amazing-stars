@@ -11,6 +11,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [LLVM](#llvm)
 - [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
@@ -29,6 +30,7 @@
 
 ## C++ 
 
+- [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
@@ -49,6 +51,10 @@
 - [hadez8877/awesome-opensource](https://github.com/hadez8877/awesome-opensource) - A list of powerful open-source projects for web, backend, CLI, and mobile. ⭐️ Star the repo to support it!
 - [JavascriptGrandMasters/javascript-cheatsheet](https://github.com/JavascriptGrandMasters/javascript-cheatsheet) - A CheatSheet to Javascript
 
+## LLVM 
+
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+
 ## Markdown 
 
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
@@ -66,6 +72,7 @@
 
 ## Python 
 
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
 - [fs0cietyx/ai-slop-detector](https://github.com/fs0cietyx/ai-slop-detector) - A production-ready AI text classifier that detects machine-generated content using PyTorch and LoRA. Features zero-trust security, strict CI/CD, and containerized deployment.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
@@ -85,7 +92,7 @@
 ## TypeScript 
 
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
-- [Vivek-736/RepoMind](https://github.com/Vivek-736/RepoMind) - RepoMind is an AI-powered documentation generator for modern codebases that helps developers understand any GitHub repository faster. It analyzes project architecture, folder structures, dependencies,
+- [Vivek-736/Repo-Mind](https://github.com/Vivek-736/Repo-Mind) - RepoMind is an AI-powered documentation generator for modern codebases that helps developers understand any GitHub repository faster. It analyzes project architecture, folder structures, dependencies,
 - [BeyteFlow/ReadmeGenAI](https://github.com/BeyteFlow/ReadmeGenAI) - AI-powered README generator for GitHub. Paste a repo URL and instantly create a professional, well-structured README.md file.
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
