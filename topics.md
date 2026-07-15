@@ -43,6 +43,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [js](#js)
+- [language](#language)
 - [library](#library)
 - [llm](#llm)
 - [malware](#malware)
@@ -55,10 +56,13 @@
 - [parsing](#parsing)
 - [postgresql](#postgresql)
 - [productivity](#productivity)
+- [programming-language](#programming-language)
 - [python](#python)
 - [python3](#python3)
 - [rag](#rag)
 - [react](#react)
+- [ruby](#ruby)
+- [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
@@ -120,6 +124,7 @@
 
 ## c 
 
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 ## c-plus-plus 
@@ -247,6 +252,10 @@
 
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 
+## language 
+
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
+
 ## library 
 
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
@@ -313,6 +322,10 @@
 
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 
+## programming-language 
+
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
+
 ## python 
 
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
@@ -334,6 +347,14 @@
 - [BeyteFlow/ReadmeGenAI](https://github.com/BeyteFlow/ReadmeGenAI) - AI-powered README generator for GitHub. Paste a repo URL and instantly create a professional, well-structured README.md file.
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
+
+## ruby 
+
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
+
+## rust 
+
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 
 ## security 
 
