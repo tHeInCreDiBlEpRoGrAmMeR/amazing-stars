@@ -74,6 +74,7 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [workflow](#workflow)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## ai 
@@ -205,6 +206,7 @@
 
 ## github 
 
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
 
@@ -224,6 +226,7 @@
 
 ## hacktoberfest 
 
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
@@ -293,6 +296,8 @@
 
 ## others 
 
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 - [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 BOT de WhatsApp com multi-funções e comandos!
 - [fs0cietyx/ai-slop-detector](https://github.com/fs0cietyx/ai-slop-detector) - A production-ready AI text classifier that detects machine-generated content using PyTorch and LoRA. Features zero-trust security, strict CI/CD, and containerized deployment.
@@ -340,7 +345,7 @@
 
 ## rag 
 
-- [Vivek-736/RepoMind](https://github.com/Vivek-736/RepoMind) - RepoMind is an AI-powered documentation generator for modern codebases that helps developers understand any GitHub repository faster. It analyzes project architecture, folder structures, dependencies,
+- [Vivek-736/Repo-Mind](https://github.com/Vivek-736/Repo-Mind) - RepoMind is an AI-powered documentation generator for modern codebases that helps developers understand any GitHub repository faster. It analyzes project architecture, folder structures, dependencies,
 
 ## react 
 
@@ -400,6 +405,10 @@
 ## workflow 
 
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
+
+## youtube 
+
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
 
 ## zsh 
 
