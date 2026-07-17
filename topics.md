@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
@@ -48,6 +49,7 @@
 - [llm](#llm)
 - [malware](#malware)
 - [markdown](#markdown)
+- [mcp](#mcp)
 - [microsoft](#microsoft)
 - [nextjs](#nextjs)
 - [open-source](#open-source)
@@ -61,6 +63,7 @@
 - [python3](#python3)
 - [rag](#rag)
 - [react](#react)
+- [reinforcement-learning](#reinforcement-learning)
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
@@ -76,6 +79,10 @@
 - [workflow](#workflow)
 - [youtube](#youtube)
 - [zsh](#zsh)
+
+## agent 
+
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 
 ## ai 
 
@@ -265,6 +272,7 @@
 
 ## llm 
 
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 
 ## malware 
@@ -275,6 +283,10 @@
 
 - [BeyteFlow/ReadmeGenAI](https://github.com/BeyteFlow/ReadmeGenAI) - AI-powered README generator for GitHub. Paste a repo URL and instantly create a professional, well-structured README.md file.
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
+
+## mcp 
+
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 
 ## microsoft 
 
@@ -345,6 +357,7 @@
 
 ## rag 
 
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [Vivek-736/Repo-Mind](https://github.com/Vivek-736/Repo-Mind) - RepoMind is an AI-powered documentation generator for modern codebases that helps developers understand any GitHub repository faster. It analyzes project architecture, folder structures, dependencies,
 
 ## react 
@@ -352,6 +365,10 @@
 - [BeyteFlow/ReadmeGenAI](https://github.com/BeyteFlow/ReadmeGenAI) - AI-powered README generator for GitHub. Paste a repo URL and instantly create a professional, well-structured README.md file.
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
+
+## reinforcement-learning 
+
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 
 ## ruby 
 
