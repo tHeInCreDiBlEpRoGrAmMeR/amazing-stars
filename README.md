@@ -74,6 +74,8 @@
 
 ## Python 
 
+- [rishichitnis007/pong-game](https://github.com/rishichitnis007/pong-game) - A simple game of pong
+- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
 - [fs0cietyx/ai-slop-detector](https://github.com/fs0cietyx/ai-slop-detector) - A production-ready AI text classifier that detects machine-generated content using PyTorch and LoRA. Features zero-trust security, strict CI/CD, and containerized deployment.
