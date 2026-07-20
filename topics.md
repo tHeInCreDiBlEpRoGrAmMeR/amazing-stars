@@ -22,13 +22,16 @@
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [code-review](#code-review)
+- [computer-vision](#computer-vision)
 - [config](#config)
 - [cpp](#cpp)
+- [csharp](#csharp)
 - [css](#css)
 - [database](#database)
 - [developer-tools](#developer-tools)
 - [docker](#docker)
 - [dotfiles](#dotfiles)
+- [dotnet](#dotnet)
 - [emacs](#emacs)
 - [framework](#framework)
 - [game-development](#game-development)
@@ -48,11 +51,13 @@
 - [language](#language)
 - [library](#library)
 - [llm](#llm)
+- [macos](#macos)
 - [malware](#malware)
 - [markdown](#markdown)
 - [mcp](#mcp)
 - [microsoft](#microsoft)
 - [nextjs](#nextjs)
+- [nodejs](#nodejs)
 - [open-source](#open-source)
 - [openai](#openai)
 - [others](#others)
@@ -65,12 +70,15 @@
 - [rag](#rag)
 - [react](#react)
 - [reinforcement-learning](#reinforcement-learning)
+- [rest-api](#rest-api)
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [sql](#sql)
+- [swift](#swift)
+- [swiftui](#swiftui)
 - [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [typescript](#typescript)
@@ -156,12 +164,17 @@
 
 ## cli 
 
+- [BeyteFlow/errlens](https://github.com/BeyteFlow/errlens) - A lightweight CLI that explains JavaScript/Node.js errors in plain English and suggests fixes.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
 ## code-review 
 
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
+
+## computer-vision 
+
+- [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
 
 ## config 
 
@@ -172,8 +185,13 @@
 
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
+## csharp 
+
+- [abdullokhonz/Bookkeeping](https://github.com/abdullokhonz/Bookkeeping) - 📊 Modern full-stack bookkeeping and financial control dashboard built with ASP.NET Core, Blazor, and PostgreSQL.
+
 ## css 
 
+- [kaunkrishna/clean-spotify](https://github.com/kaunkrishna/clean-spotify) - Your music, zero distractions, without the clutter.
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [ankurrera/SoloLeveling](https://github.com/ankurrera/SoloLeveling) - ♟️ A Notion-inspired Life OS that turns real-world skills into a live RPG stat system driven by XP and consistency.
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
@@ -184,6 +202,7 @@
 
 ## developer-tools 
 
+- [BeyteFlow/errlens](https://github.com/BeyteFlow/errlens) - A lightweight CLI that explains JavaScript/Node.js errors in plain English and suggests fixes.
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 
 ## docker 
@@ -193,6 +212,10 @@
 ## dotfiles 
 
 - [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
+
+## dotnet 
+
+- [abdullokhonz/Bookkeeping](https://github.com/abdullokhonz/Bookkeeping) - 📊 Modern full-stack bookkeeping and financial control dashboard built with ASP.NET Core, Blazor, and PostgreSQL.
 
 ## emacs 
 
@@ -262,6 +285,7 @@
 
 ## javascript 
 
+- [BeyteFlow/errlens](https://github.com/BeyteFlow/errlens) - A lightweight CLI that explains JavaScript/Node.js errors in plain English and suggests fixes.
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 
@@ -283,6 +307,10 @@
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 
+## macos 
+
+- [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
+
 ## malware 
 
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
@@ -303,10 +331,16 @@
 
 ## nextjs 
 
+- [oyanmuhammad/codenight-starter](https://github.com/oyanmuhammad/codenight-starter) - CodeNight Starter — An open-source foundation for building modern web applications. Built on industry standards with Next.js, shadcn/ui, Better Auth, Prisma, and PostgreSQL, and designed to be customi
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
+
+## nodejs 
+
+- [BeyteFlow/errlens](https://github.com/BeyteFlow/errlens) - A lightweight CLI that explains JavaScript/Node.js errors in plain English and suggests fixes.
 
 ## open-source 
 
+- [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
 - [hadez8877/awesome-opensource](https://github.com/hadez8877/awesome-opensource) - A list of powerful open-source projects for web, backend, CLI, and mobile. ⭐️ Star the repo to support it!
 - [BeyteFlow/ReadmeGenAI](https://github.com/BeyteFlow/ReadmeGenAI) - AI-powered README generator for GitHub. Paste a repo URL and instantly create a professional, well-structured README.md file.
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
@@ -317,6 +351,31 @@
 
 ## others 
 
+- [pipelinear/trade-notifier](https://github.com/pipelinear/trade-notifier) - Local Roblox Trade Notifier and decider, for both seasoned and new traders: building a system Roblox has yet to develop 🙄
+- [nathan-dotnet/nathan-dotnet](https://github.com/nathan-dotnet/nathan-dotnet) - README
+- [Victormoroo/Portfolio_Victor_Dev](https://github.com/Victormoroo/Portfolio_Victor_Dev) - Meu portfólio como desenvolvedor, reunindo projetos, tecnologias e experiências profissionais.
+- [lilynex/libris-flow](https://github.com/lilynex/libris-flow) - Modern, open-source library management system for schools, colleges, and institutes.
+- [AMRYB/ZAD](https://github.com/AMRYB/ZAD) - 
+- [5enox/chatgpt-creator](https://github.com/5enox/chatgpt-creator) - Automated ChatGPT account signup using Outlook email stock with IMAP OTP retrieval.
+- [cid-kageno-dev/Ani](https://github.com/cid-kageno-dev/Ani) - Meet Ani 💜: A smart, Portfolio AI assistant create by Cid Kageno.
+- [Laalu7/Coffee-Responsive-Website](https://github.com/Laalu7/Coffee-Responsive-Website) - 
+- [atharvalohote/mentalwellness-app-for-youth](https://github.com/atharvalohote/mentalwellness-app-for-youth) - mentalwellness app for youth # gen ai exchange hackathon
+- [Nildadev/LmsAuto](https://github.com/Nildadev/LmsAuto) - Plz dont suit me
+- [P-r-e-m-i-u-m/portfolio](https://github.com/P-r-e-m-i-u-m/portfolio) - 
+- [niranjan-agnivesh/Automatic-Urban-Response-and-Assistance](https://github.com/niranjan-agnivesh/Automatic-Urban-Response-and-Assistance) - 
+- [hypercat101/vehicle_paint_menu-fiveM](https://github.com/hypercat101/vehicle_paint_menu-fiveM) - 
+- [youssefkachmar/netstage](https://github.com/youssefkachmar/netstage) - 
+- [befion/costiqiel](https://github.com/befion/costiqiel) - 
+- [exomiee/ResumeAI](https://github.com/exomiee/ResumeAI) - 
+- [FaizanAnwar01/RECON-GHOST](https://github.com/FaizanAnwar01/RECON-GHOST) - A powerful Bash-based automated reconnaissance toolkit for bug bounty hunters and penetration testers. Includes subdomain enumeration, port scanning, live host detection, fuzzing, and more. 🔍
+- [Anondoroydev/Weather_App](https://github.com/Anondoroydev/Weather_App) - 
+- [md-rounaq-ali/VoxCalc](https://github.com/md-rounaq-ali/VoxCalc) - The Ultimate AI-Inspired Smart Calculator & High-Fidelity Mathematical Suite
+- [JembruL/Cheatocalypse](https://github.com/JembruL/Cheatocalypse) - A chaotic sandbox mod for Unciv (Gods & Kings ruleset) focused on accelerated progression, overpowered units, and controlled cheating mechanics — designed to enhance fun without completely removing ga
+- [idklevi/BRAIN-TUMOR-DETECTION-END-2-END](https://github.com/idklevi/BRAIN-TUMOR-DETECTION-END-2-END) - 
+- [Rana3112/Prompt-Enhancer](https://github.com/Rana3112/Prompt-Enhancer) - AI-powered Chrome extension that enhances prompts on ChatGPT, Claude & Gemini using Ctrl+Shift+E — supports OpenRouter, NVIDIA NIM & Groq with skill-based domain expertise.
+- [PiyushLadukar/LokDrishti](https://github.com/PiyushLadukar/LokDrishti) - AI-powered civic transparency platform analyzing MP & MLA performance using public data.
+- [kanwjpg/blablah](https://github.com/kanwjpg/blablah) - 
+- [GOd-Reeper/Anon-chat](https://github.com/GOd-Reeper/Anon-chat) - 
 - [rishichitnis007/pong-game](https://github.com/rishichitnis007/pong-game) - A simple game of pong
 - [rishichitnis007/hello-world](https://github.com/rishichitnis007/hello-world) - Hello World in all existing Programming Languages
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
@@ -343,6 +402,7 @@
 
 ## postgresql 
 
+- [abdullokhonz/Bookkeeping](https://github.com/abdullokhonz/Bookkeeping) - 📊 Modern full-stack bookkeeping and financial control dashboard built with ASP.NET Core, Blazor, and PostgreSQL.
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
@@ -374,6 +434,7 @@
 
 ## react 
 
+- [oyanmuhammad/codenight-starter](https://github.com/oyanmuhammad/codenight-starter) - CodeNight Starter — An open-source foundation for building modern web applications. Built on industry standards with Next.js, shadcn/ui, Better Auth, Prisma, and PostgreSQL, and designed to be customi
 - [BeyteFlow/ReadmeGenAI](https://github.com/BeyteFlow/ReadmeGenAI) - AI-powered README generator for GitHub. Paste a repo URL and instantly create a professional, well-structured README.md file.
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
@@ -381,6 +442,10 @@
 ## reinforcement-learning 
 
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+
+## rest-api 
+
+- [abdullokhonz/Bookkeeping](https://github.com/abdullokhonz/Bookkeeping) - 📊 Modern full-stack bookkeeping and financial control dashboard built with ASP.NET Core, Blazor, and PostgreSQL.
 
 ## ruby 
 
@@ -392,6 +457,7 @@
 
 ## security 
 
+- [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 
 ## self-hosted 
@@ -407,6 +473,14 @@
 
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
+## swift 
+
+- [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
+
+## swiftui 
+
+- [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
+
 ## tailwindcss 
 
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
@@ -417,6 +491,7 @@
 
 ## typescript 
 
+- [oyanmuhammad/codenight-starter](https://github.com/oyanmuhammad/codenight-starter) - CodeNight Starter — An open-source foundation for building modern web applications. Built on industry standards with Next.js, shadcn/ui, Better Auth, Prisma, and PostgreSQL, and designed to be customi
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 
 ## ui 
