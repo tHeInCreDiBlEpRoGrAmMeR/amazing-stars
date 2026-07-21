@@ -16,6 +16,7 @@
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Others](#others)
+- [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Shell](#shell)
@@ -96,6 +97,10 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [rishichitnis007/dotfiles](https://github.com/rishichitnis007/dotfiles) - My Dotfiles
+
+## PHP 
+
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 ## Python 
 
