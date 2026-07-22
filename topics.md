@@ -354,7 +354,6 @@
 
 ## others 
 
-- [erincatto/box3d](https://github.com/erincatto/box3d) - Box3D is a 3D physics engine for games
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [pipelinear/trade-notifier](https://github.com/pipelinear/trade-notifier) - Local Roblox Trade Notifier and decider, for both seasoned and new traders: building a system Roblox has yet to develop 🙄
 - [nathan-dotnet/nathan-dotnet](https://github.com/nathan-dotnet/nathan-dotnet) - README
