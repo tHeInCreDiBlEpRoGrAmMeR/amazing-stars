@@ -50,6 +50,7 @@
 - [js](#js)
 - [language](#language)
 - [library](#library)
+- [linux](#linux)
 - [llm](#llm)
 - [macos](#macos)
 - [malware](#malware)
@@ -60,6 +61,7 @@
 - [nodejs](#nodejs)
 - [open-source](#open-source)
 - [openai](#openai)
+- [opengl](#opengl)
 - [others](#others)
 - [parsing](#parsing)
 - [php](#php)
@@ -86,6 +88,7 @@
 - [ui](#ui)
 - [vue](#vue)
 - [vuejs](#vuejs)
+- [windows](#windows)
 - [workflow](#workflow)
 - [youtube](#youtube)
 - [zsh](#zsh)
@@ -142,6 +145,7 @@
 
 ## c 
 
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
@@ -288,6 +292,7 @@
 
 ## javascript 
 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [BeyteFlow/errlens](https://github.com/BeyteFlow/errlens) - A lightweight CLI that explains JavaScript/Node.js errors in plain English and suggests fixes.
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
@@ -298,11 +303,16 @@
 
 ## language 
 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 
 ## library 
 
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+## linux 
+
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 
 ## llm 
 
@@ -312,6 +322,7 @@
 
 ## macos 
 
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
 
 ## malware 
@@ -351,6 +362,10 @@
 ## openai 
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+
+## opengl 
+
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 
 ## others 
 
@@ -499,6 +514,7 @@
 
 ## typescript 
 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [oyanmuhammad/codenight-starter](https://github.com/oyanmuhammad/codenight-starter) - CodeNight Starter — An open-source foundation for building modern web applications. Built on industry standards with Next.js, shadcn/ui, Better Auth, Prisma, and PostgreSQL, and designed to be customi
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 
@@ -513,6 +529,10 @@
 ## vuejs 
 
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
+
+## windows 
+
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 
 ## workflow 
 
