@@ -86,6 +86,7 @@
 
 ## Others 
 
+- [rishichitnis007/awesome-python-repositories](https://github.com/rishichitnis007/awesome-python-repositories) - A curated list of useful tools for Python
 - [nathan-dotnet/nathan-dotnet](https://github.com/nathan-dotnet/nathan-dotnet) - README
 - [niranjan-agnivesh/Automatic-Urban-Response-and-Assistance](https://github.com/niranjan-agnivesh/Automatic-Urban-Response-and-Assistance) - 
 - [befion/costiqiel](https://github.com/befion/costiqiel) - 
