@@ -25,6 +25,7 @@
 
 ## C 
 
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -134,6 +135,7 @@
 
 ## TypeScript 
 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Victormoroo/Portfolio_Victor_Dev](https://github.com/Victormoroo/Portfolio_Victor_Dev) - Meu portfólio como desenvolvedor, reunindo projetos, tecnologias e experiências profissionais.
 - [lilynex/libris-flow](https://github.com/lilynex/libris-flow) - Modern, open-source library management system for schools, colleges, and institutes.
 - [cid-kageno-dev/Ani](https://github.com/cid-kageno-dev/Ani) - Meet Ani 💜: A smart, Portfolio AI assistant create by Cid Kageno.
