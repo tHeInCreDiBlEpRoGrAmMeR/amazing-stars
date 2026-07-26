@@ -107,6 +107,7 @@
 
 ## Python 
 
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [pipelinear/trade-notifier](https://github.com/pipelinear/trade-notifier) - Local Roblox Trade Notifier and decider, for both seasoned and new traders: building a system Roblox has yet to develop 🙄
 - [5enox/chatgpt-creator](https://github.com/5enox/chatgpt-creator) - Automated ChatGPT account signup using Outlook email stock with IMAP OTP retrieval.
 - [youssefkachmar/netstage](https://github.com/youssefkachmar/netstage) - 
@@ -136,6 +137,7 @@
 
 ## TypeScript 
 
+- [myrotvorets/set-commit-status-action](https://github.com/myrotvorets/set-commit-status-action) - GitHub Action to set commit status
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Victormoroo/Portfolio_Victor_Dev](https://github.com/Victormoroo/Portfolio_Victor_Dev) - Meu portfólio como desenvolvedor, reunindo projetos, tecnologias e experiências profissionais.
 - [lilynex/libris-flow](https://github.com/lilynex/libris-flow) - Modern, open-source library management system for schools, colleges, and institutes.
