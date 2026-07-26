@@ -369,6 +369,8 @@
 
 ## others 
 
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
+- [myrotvorets/set-commit-status-action](https://github.com/myrotvorets/set-commit-status-action) - GitHub Action to set commit status
 - [rishichitnis007/awesome-python-repositories](https://github.com/rishichitnis007/awesome-python-repositories) - A curated list of useful tools for Python
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [pipelinear/trade-notifier](https://github.com/pipelinear/trade-notifier) - Local Roblox Trade Notifier and decider, for both seasoned and new traders: building a system Roblox has yet to develop 🙄
