@@ -61,18 +61,19 @@
 
 ## JavaScript 
 
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [BeyteFlow/errlens](https://github.com/BeyteFlow/errlens) - A lightweight CLI that explains JavaScript/Node.js errors in plain English and suggests fixes.
 - [Nildadev/LmsAuto](https://github.com/Nildadev/LmsAuto) - Plz dont suit me
 - [exomiee/ResumeAI](https://github.com/exomiee/ResumeAI) - 
 - [Anondoroydev/Weather_App](https://github.com/Anondoroydev/Weather_App) - 
 - [md-rounaq-ali/VoxCalc](https://github.com/md-rounaq-ali/VoxCalc) - The Ultimate AI-Inspired Smart Calculator & High-Fidelity Mathematical Suite
+- [rishichitnis007/hello-world](https://github.com/rishichitnis007/hello-world) - Hello World in all existing Programming Languages
 - [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 BOT de WhatsApp com multi-funções e comandos!
 - [hadez8877/awesome-opensource](https://github.com/hadez8877/awesome-opensource) - A list of powerful open-source projects for web, backend, CLI, and mobile. ⭐️ Star the repo to support it!
 - [JavascriptGrandMasters/javascript-cheatsheet](https://github.com/JavascriptGrandMasters/javascript-cheatsheet) - A CheatSheet to Javascript
 
 ## LLVM 
 
-- [rishichitnis007/hello-world](https://github.com/rishichitnis007/hello-world) - Hello World in all existing Programming Languages
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ## Lua 
@@ -103,6 +104,7 @@
 
 ## PHP 
 
+- [artisan-build/ext-ffmpeg](https://github.com/artisan-build/ext-ffmpeg) - Native PHP extension binding the FFmpeg libraries (pure C / Zend API). An Artisan Build project.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 ## Python 
@@ -128,11 +130,13 @@
 
 ## Shell 
 
+- [meaningful-ooo/sponge](https://github.com/meaningful-ooo/sponge) - 🧽 Clean fish history from typos automatically
 - [FaizanAnwar01/RECON-GHOST](https://github.com/FaizanAnwar01/RECON-GHOST) - A powerful Bash-based automated reconnaissance toolkit for bug bounty hunters and penetration testers. Includes subdomain enumeration, port scanning, live host detection, fuzzing, and more. 🔍
 - [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
 
 ## Swift 
 
+- [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
 
 ## TypeScript 
