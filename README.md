@@ -19,6 +19,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -120,13 +121,16 @@
 - [fs0cietyx/ai-slop-detector](https://github.com/fs0cietyx/ai-slop-detector) - A production-ready AI text classifier that detects machine-generated content using PyTorch and LoRA. Features zero-trust security, strict CI/CD, and containerized deployment.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
-- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 
 ## Ruby 
 
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
+
+## Rust 
+
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 
 ## Shell 
 
